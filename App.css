@@ -13,13 +13,16 @@
 button {
   font-family: 'Montserrat', sans-serif;
 }
+
+//styling starts from here!//
+
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #f8f8f8;
 }
 
 
-//styling starts from here!//
+
 
 .container { 
   max-width: 1140px;
